@@ -1,4 +1,11 @@
-## Hi there 👋
+## Fiorella Infante 💽 IT analyst 
+I'm currently studying to be an IT analyst. 
+## Languages and tools
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+</picture>
 
 <!--
 **fiorellainfante/fiorellainfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,9 @@
 I'm currently studying to be an IT analyst. 
 ## Languages and tools
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+ <source media="(prefers-color-scheme: dark)" srcset="(https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+ <source media="(prefers-color-scheme: light)" srcset="(https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+ <img alt="YOUR-ALT-TEXT" src="(https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
 </picture>
 
 <!--

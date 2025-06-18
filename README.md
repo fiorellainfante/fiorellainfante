@@ -1,9 +1,8 @@
 ## Fiorella Infante 🌸 IT analyst 
 I'm currently studying to be an IT analyst. 
 ## Languages and tools
-<picture>
- <source media="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge">
-</picture>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge">
+
 
 <!--
 **fiorellainfante/fiorellainfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

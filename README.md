@@ -4,13 +4,7 @@ I'm currently studying to be an IT analyst.
 
 ## Languages and tools
 
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge">
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,haskell,mysql,docker,git,vscode)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiorellainfante&layout=compact&show_icons=true&theme=omni )
 

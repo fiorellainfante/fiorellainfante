@@ -2,8 +2,14 @@
 I'm currently studying to be an IT analyst. 
 ## Languages and tools
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge">
-
-
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge">
+##Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiorellainfante)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fiorellainfante/fiorellainfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

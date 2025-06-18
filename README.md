@@ -12,9 +12,8 @@ I'm currently studying to be an IT analyst.
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiorellainfante&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiorellainfante&layout=compact&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiorellainfante&show_icons=true&theme=radical)
 <!--
 **fiorellainfante/fiorellainfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

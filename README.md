@@ -1,10 +1,8 @@
-## Fiorella Infante 💽 IT analyst 
+## Fiorella Infante 🌸 IT analyst 
 I'm currently studying to be an IT analyst. 
 ## Languages and tools
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="(https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
- <source media="(prefers-color-scheme: light)" srcset="(https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
- <img alt="YOUR-ALT-TEXT" src="(https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)">
+ <source media="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge">
 </picture>
 
 <!--

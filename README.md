@@ -4,7 +4,7 @@ I'm currently studying to be an IT analyst.
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,haskell,mysql,docker,git,assembly,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,haskell,mysql,docker,git,asm,vscode)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiorellainfante&layout=compact&show_icons=true&theme=omni )
 

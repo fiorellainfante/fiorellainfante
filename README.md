@@ -1,6 +1,6 @@
-## Fiorella Infante 🌸 System analyst 
+## Fiorella Infante 🌸 Systems analyst 
 
-I'm currently studying to be an system analyst. 
+I'm currently studying to be an systems analyst. 
 
 ## Languages and tools
 
